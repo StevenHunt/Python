@@ -35,7 +35,7 @@ def betterBnW(pic):
 
 def sepia():
     file = pickAFile()
-    pic = makePicture(file)
+    pic = makePicture(file) 
     pic = betterBnW(pic)
     for x in range(0, getWidth(pic)):
         for y in range(0 , getHeight(pic)):
