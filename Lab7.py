@@ -19,7 +19,7 @@ def snowMan():
 # St. Patricks Day Greeting Card -  
 
 # Darth
-def betterBnW(pic):
+def betterBnW(pic): 
   pixels = getPixels(pic)
   for p in pixels:
     r = getRed(p)
