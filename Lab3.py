@@ -26,7 +26,7 @@ def lessRed(percentage):
   
   for p in pixels:
     r = getRed(p)
-    setRed(p, r * percentage)
+    setRed(p, r * percentage) 
     
   repaint(pic)
     
