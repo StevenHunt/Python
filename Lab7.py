@@ -1,9 +1,8 @@
-# Steven Hunt - Logistic Solutions
+# Steven Hunt - Completed with partial team Logistic Solutions (Brenna Eckel and Lupe Alejo)
 # CST 205
 # March 16, 2017
  
- 
-# Lab # 7
+ # Lab # 7
 
 # Warm Up - Find an image of the desert and draw a snowman on it. 
 
