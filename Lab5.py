@@ -19,7 +19,7 @@ def centerImage():
       targetY = targetY + 1
     targetX = targetX + 1
   show(copy)
-  writePictureTo(copy, "/home/steven/Desktop/centerImage.jpg")
+  writePictureTo(copy, "/home/steven/Desktop/centerImage.jpg") 
 
 # PROBLEM 1 - A function that copies an image (source) to another (target), in addition to using x & y locations as arguments (targetX & targetY). 
 
