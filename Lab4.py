@@ -26,7 +26,7 @@ def mirror2():
   mirror2=makeEmptyPicture(w,h)
   for y in range(0, h/2):  
     for x in range(0, w):
-      color=getColor(getPixel(pic, x, y))
+      color=getColor(getPixel(pic, x, y)) 
       setColor(getPixel(mirror2, x, y), color)
       setColor(getPixel(mirror2, x, h-y-2),color)
   show(mirror2)    
