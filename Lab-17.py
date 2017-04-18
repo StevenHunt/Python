@@ -36,7 +36,7 @@ def htmlEGGS():
       except:
         d[word] = 1  #Initiates pointers to find beginning or end of text
     
-  html_string = ("""
+  html_string = (""" 
   <!DOCTYPE HTML PUBLIC > \n
  
   <html>\n       
