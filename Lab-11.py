@@ -33,7 +33,7 @@ def introduction():
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Patient Room (STEVEN): Where the player wakes up.
+# Patient Room (STEVEN): Where the player wakes up. 
 def patientRoom():
   printNow("************************************************** PATIENT ROOM ************************************************* \n")
   printNow("Location: You're standing just next to your hospital bed in a patient room. \n" +
