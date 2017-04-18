@@ -34,7 +34,7 @@ def clip(source, start, end):
 
 def copy(source, target, start):
   
-  targetIndex = start                                        # Using start as the index for target. 
+  targetIndex = start                                        # Using start as the index for target.  
   
   for sourceIndex in range(0, getLength(source)):            # Iterating through all of source sound
     sourceValue = getSampleValueAt(source, sourceIndex)      # Get all the samples values of source
