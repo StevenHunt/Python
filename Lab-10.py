@@ -31,7 +31,7 @@ def loop():
 
 # Hangman: 
 
-"""
+""" 
 1. Output a brief description of the game of hangman and how to play
 2. The word to guess can be hard-coded in your program, but it should be easy to change the word.
 3. Output the appropriate number of dashes and spaces to represent the phrase.
