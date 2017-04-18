@@ -37,7 +37,7 @@ def decreaseVolume(sound):
    
    for sample in range(0, getLength(sound)):
       value = getSampleValueAt(sound, sample)
-      setSampleValueAt(sound, sample, value /2)
+      setSampleValueAt(sound, sample, value /2) 
 
 # Using Bueller.wav
 # Orignal @ 10730: 1
