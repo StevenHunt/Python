@@ -34,5 +34,5 @@ def pullHeadlines():
       
   #Appends each headline using their start and end indices and prints them each out on a new line
   for x in range(0, 20):
-    headlines.append(newString[startIndices[x]:endIndices[x] - 16])
+    headlines.append(newString[startIndices[x]:endIndices[x] - 16]) 
     print headlines[x]
