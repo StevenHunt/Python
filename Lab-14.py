@@ -45,6 +45,6 @@ def wordCounter():
   # Outputs: 
   print "The total amount of words are: ", numWords
   print "The most commonly occuring word is:", maxKey, "@", maxVal, "times"
-  print "The list of words and their count: \n", d
+  print "The list of words and their count: \n", d 
   
   
