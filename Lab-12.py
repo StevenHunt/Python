@@ -1,5 +1,5 @@
 # Steven Hunt, and Brenna Eckel, Guadalupe Alejo 
-# CST205 - Lab 13.1
+# CST205 - Lab 12
 # 4.10.17
 
 #==========================================PROBLEM 1:  MAD LIB GAME======================================================
@@ -52,5 +52,5 @@ def madLibs():
             
         madString += leftBrace + words[i] + rightBrace + punct + ' '
         
-    printNow(madString)
+    printNow(madString) 
 
