@@ -74,7 +74,7 @@ def lightenUp():
     c = makeLighter(c)
     setColor(p,c)
   repaint(pic)
-
+  
 # Lab 3 - Problem 5
 # Write a function called makeNegative that creates the negative of an original picture. This means you will want to create the opposite value for the red, green and blue of that pixel. 
 # How might you get the opposite?
